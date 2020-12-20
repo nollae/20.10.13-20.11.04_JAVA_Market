@@ -1,7 +1,7 @@
 # 20.10.13-20.11.04_JAVA_Market
 ## <JAVA 어플리케이션 팀 프로젝트 >
 ### 중고마켓 컨셉으로, 물품 등록, 검색, 수정, 삭제, 채팅 등 과 같은 기술을 구현
-### 협업 깃 주소 : https://github.com/lyj6054/market.git
+### 협업한 깃 주소 : https://github.com/lyj6054/market.git
 
 ## "도심 속 바다" :: 바꿔쓰고 다시쓰고
 
